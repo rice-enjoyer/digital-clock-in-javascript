@@ -1,5 +1,5 @@
 body{
-  background-image: url('https://www.baltana.com/files/wallpapers-8/Red-Square-Moscow-HD-Desktop-Wallpaper-23933.jpg');
+  background-image: url('https://www.baltana.com/files/wallpapers-8/Red-Square-Moscow-HD-Desktop-Wallpaper-23933.jpg'); /* Feel free to replace this URL. */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -20,5 +20,5 @@ body{
   color: white;
   backdrop-filter: blur(5px);
   background-color: hsl(0, 0%, 100%, 0.1);
-  width: 100%
-
+  width: 100%;
+}
